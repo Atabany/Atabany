@@ -4,7 +4,7 @@ Hi 👋 My name is Mohamed Elatabany
 iOS Software Engineer
 ---------------------
 
-* 🌍  I'm based in Egypt
+* 🌍  I'm based in Dubai
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://atabany.work)
 * ✉️  You can contact me at [atabany.work@gmail.com](mailto:atabany.work@gmail.com)
 * 🤝  I'm open to collaborating on Building iOS Apps
